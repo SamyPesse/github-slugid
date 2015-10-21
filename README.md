@@ -1,5 +1,8 @@
 # github-slugid
 
+[![NPM version](https://badge.fury.io/js/github-slugid.svg)](http://badge.fury.io/js/github-slugid)
+[![Linux Build Status](https://travis-ci.org/SamyPesse/github-slugid.png?branch=master)](https://travis-ci.org/SamyPesse/github-slugid)
+
 Slugify IDs like GitHub.
 
 ### Installation
