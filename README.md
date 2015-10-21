@@ -20,3 +20,4 @@ slug('Hello World') == 'hello-world';
 ```
 
 [Examples on GitHub](https://gist.github.com/SamyPesse/b3594cc813f026b3fd42)
+[Reference](https://github.com/jch/html-pipeline/blob/master/lib/html/pipeline/toc_filter.rb)
