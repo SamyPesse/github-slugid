@@ -18,3 +18,5 @@ var slug = require('github-slugid');
 
 slug('Hello World') == 'hello-world';
 ```
+
+[Examples on GitHub](https://gist.github.com/SamyPesse/b3594cc813f026b3fd42)
