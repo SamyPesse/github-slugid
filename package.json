@@ -8,7 +8,7 @@
         "should": "7.1.0"
     },
     "scripts": {
-        "test": "export TESTING=true; mocha --reporter list"
+        "test": "export TESTING=true; mocha --reporter list --bail"
     },
     "repository": {
         "type": "git",
