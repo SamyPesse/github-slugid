@@ -4,10 +4,10 @@ var should = require('should');
 var MATCHES = {
     'hello': 'hello',
     'hello world': 'hello-world',
-    '!weird + id/for headings': 'weird--idfor-heading',
+    '!weird + id/for headings': 'weird-idfor-heading',
     '您好': '您好',
-    'I ♥ you': 'i--you',
-    'a > b': 'a--b',
+    'I ♥ you': 'i-you',
+    'a > b': 'a-b',
     'Schöner Titel läßt grüßen!? Bel été !': 'schöner-titel-läßt-grüßen-bel-été-'
 }
 
