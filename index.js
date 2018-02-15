@@ -15,6 +15,7 @@ function slug(content, separator) {
     var s = content
         .replace(re, '')
         .replace(/ /g, separator)
+        .replace(/-{2,}/g, '-')
         .toLowerCase();
 
     if (s[0] == separator) s = s.slice(1);
